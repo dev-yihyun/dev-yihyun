@@ -1,5 +1,4 @@
-[![Dev Yi-Hyunkl](https://github.com/dev-yihyun/dev-yihyun/assets/67820737/678399be-bb23-4a91-aec6-84bf3e067742)
-](https://dev-yihyun.github.io/){: width="300" height="300"}
+[![dev-yihyun](https://github.com/dev-yihyun/dev-yihyun/assets/67820737/2e05ca99-6169-4855-b1db-dd1a05ed6220)](https://dev-yihyun.github.io/)
 
 ---
 
@@ -8,7 +7,7 @@
 - 배우고 성장하는 것을 좋아합니다.
 - 다양한 시각으로 문제를 해결 하는 것에 즐거움을 느낍니다.
 - 사용자 중심 사고로 생각하며 개발의 즐거움을 느낍니다.
-- 문제를 분석하고 해결법을 찾는 것에 즐거움을 느낍니다.
+- 문제를 분석하고 해결법을 찾는 것을 좋아합니다.
 
 ---
 
