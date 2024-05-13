@@ -1,6 +1,6 @@
 <div align="center">
   
-[![dev-yihyun](https://github.com/dev-yihyun/dev-yihyun/assets/67820737/2e05ca99-6169-4855-b1db-dd1a05ed6220)](https://dev-yihyun.github.io/)
+[![dev-yihyun](https://github.com/dev-yihyun/dev-yihyun/assets/67820737/472eaf29-654e-4fe7-aa7c-f82594420020)](https://dev-yihyun.github.io/)
 </div>
 
 ---
