@@ -1,58 +1,67 @@
+# Hi I'm dev-yihyun 👋
+
+<img align="right" width="250" src="https://github.com/user-attachments/assets/760e5f29-8438-4eb6-b842-bb09f99eaf5b" alt="프로필 이미지"/>
+
+<!--   
+   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+-->
+
+<h2>Profile</h2>
+
+안녕하세요, 프론트엔드 개발자 김이현입니다.  
+기술과 경험을 기록하며 더 나은 사용자 경험을 만들기 위해 성장하고 있습니다.
+재사용성과 확장성을 고려한 코드, 유지보수가 쉬운 구조를 고민합니다.
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,styledcomponents,tailwind)](https://skillicons.dev)
+
+<br clear="both"/>
+
+## About Me
+
+저는 기록, 안정성, 그리고 코드 가독성을 중요하게 생각하는 프론트엔드 개발자입니다.  
+화면을 구현하는 것을 넘어 사용자와 개발자 모두에게 더 나은 경험을 만드는 것을 목표로 합니다.
+- 사용하기 쉬운 UI와 기억에 남는 UX를 만드는 것을 좋아합니다.
+- 문제를 분석하고 해결하는 과정에서 즐거움을 느낍니다.
+- 코드 가독성과 유지보수성을 중요하게 생각합니다.
+- 사용자 경험과 비즈니스 목표를 함께 고려합니다.
+
+<br clear="both"/>
+
+## Skills
+| Category | Skills |
+|-----------|---------|
+| **Frontend** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
+| **Styling** | ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **State / Library** | ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square) ![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=flat-square) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) (간단한 API 서버 구현 경험) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)  (기본적인 CRUD 및 SQL 작성 경험) |
+| **Tools** |![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) |
+| **Deployment** | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)  |
+| **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+
+
+<br clear="both"/>
+
+## Project
+
+| Name | Preview | Description | Tech | Links |
+|-------|-------------|-------|--------|--------|
+| Focus Dash | <img width="80" alt="FocusDash-reports" src="https://github.com/user-attachments/assets/8e214df1-ef06-4126-bf53-7090b5b6ac06" /> | 프리랜서 오버워킹 방지 솔루션 | Next.js · TS · Zustand · Query | [Repo](https://github.com/dev-yihyun/FocusDash) |
+| 사진네컷 | (준비중) | 웹 기반 사진네컷 촬영 및 이미지 생성 서비스 | Next.js · TS · Zustand · Amplify | [Repo](https://github.com/dev-yihyun/photofourcuts) |
+
+<!-- 이미지 태그로 수정 -> 프로젝트 내부 이미지 경로가 더 안정적 -->
+<br clear="both"/>
+
+<!-- 이미지 태그로 수정 / shion.dev 미러보다 원본 vercel.app가 더 안정적 -->
+
+## GitHub Stats:
 <div align="center">
-  
-[![DevYi-Hyun](https://github.com/dev-yihyun/dev-yihyun/assets/67820737/f81efb8c-5fba-4001-8d05-aaa9ac91ce36)](https://dev-yihyun.github.io/)
+
+   ![](https://github-readme-stats.shion.dev/api?username=dev-yihyun&theme=react&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-stats.shion.dev/api/top-langs/?username=dev-yihyun&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=dev-yihyun&theme=react&hide_border=true)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-yihyun&theme=react-dark&hide_border=true&custom_title=dev-yihyun-log)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
-
----
-
-# Hi there 👋
-### 안녕하세요, 김이현 입니다.
-- 끊임없이 성장하기 위해 노력합니다.
-- 소통을 중요시하는 개발자 입니다.
-- 사용자 중심 사고로 생각하며 개발의 즐거움을 느낍니다.
-- 문제를 분석하고 해결법을 찾는 것을 좋아합니다.
-- 익숙한 것을 새롭게, 가치있게 만드는 것을 좋아합니다.
-- 코드의 재사용성을 높이는 것을 좋아합니다.
-
----
-
-# 🛠️SKILLS
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/webrtc-333333?style=for-the-badge&logo=webrtc&logoColor=white"> <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-
----
-# 📈Git Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-yihyun&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yihyun&layout=compact&theme=react)
-
-<!-- 알고리즘 티어 -->
-
-<!--
-//theme list//
-radical
-highcontrast
-react
-vue
-vue-dark
-algolia
-nightowl
-blueberry
-aura_dark
-ambient_gradient
-solarized-dark
-buefy
--->
-<!--
-**dev-yihyun/dev-yihyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
