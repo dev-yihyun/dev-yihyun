@@ -1,6 +1,6 @@
 # Hi I'm dev-yihyun 👋
 
-<img align="right" width="250" src="https://github.com/user-attachments/assets/760e5f29-8438-4eb6-b842-bb09f99eaf5b" alt="프로필 이미지"/>
+<img align="right" width="250" src="https://github.com/user-attachments/assets/a1768360-8b3a-4bab-acfb-43f94112104e" alt="프로필 이미지"/>
 
 <!--   
    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
