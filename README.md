@@ -10,9 +10,9 @@
 
 <h2>Profile</h2>
 
-안녕하세요, 프론트엔드 개발자 김이현입니다.  
-기술과 경험을 기록하며 더 나은 사용자 경험을 만들기 위해 성장하고 있습니다.
-재사용성과 확장성을 고려한 코드, 유지보수가 쉬운 구조를 고민합니다.
+안녕하세요, 프론트엔드 개발자 김이현입니다.  <br/>
+기술과 경험을 기록하며 더 나은 사용자 경험을 만들기 위해 성장하고 있습니다.<br/>
+재사용성과 확장성을 고려한 코드, 유지보수가 쉬운 구조를 고민합니다.<br/>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,styledcomponents,tailwind)](https://skillicons.dev)
 
